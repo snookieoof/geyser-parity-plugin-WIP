@@ -1,0 +1,5 @@
+name: ParityCauldrons
+version: 1.0
+main: com.snookie.paritycauldrons.ParityCauldrons
+api-version: 1.20
+description: Adds Bedrock-style cauldron features to Java Edition
